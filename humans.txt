@@ -1,0 +1,19 @@
+# humans.txt — Mohammed Rishab Portfolio
+
+/* TEAM */
+Developer: Mohammed Rishab
+Contact: contactmrishab [at] gmail.com
+From: India
+GitHub: https://github.com/mohdrishab
+LinkedIn: https://linkedin.com/in/mohdrishab
+
+/* SITE */
+Language: English
+Standards: HTML5, CSS3, WAI-ARIA
+Components: Pure HTML/CSS/JS, no frameworks
+Fonts: Playfair Display, IBM Plex Mono, Inter (Google Fonts)
+Hosting: Vercel / Netlify / GitHub Pages
+
+/* THANKS */
+Design inspired by editorial typography and brutalist aesthetics.
+Built by hand without build tools or frameworks.

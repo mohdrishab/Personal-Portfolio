@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rishab.dev/sitemap.xml

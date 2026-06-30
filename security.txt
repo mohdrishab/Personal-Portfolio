@@ -1,0 +1,6 @@
+# security.txt — Mohammed Rishab
+
+Contact: mailto:contactmrishab@gmail.com
+Preferred-Languages: en
+Canonical: https://rishab.dev/.well-known/security.txt
+Expires: 2026-12-31T23:59:00.000Z
