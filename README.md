@@ -181,11 +181,11 @@ mohammedrishab222@gmail.com
 
 **GitHub**
 
-https://github.com/yourusername
+https://github.com/mohdrishab
 
 **LinkedIn**
 
-https://linkedin.com/in/yourprofile
+https://www.linkedin.com/in/mohammad-rishab
 
 ---
 
